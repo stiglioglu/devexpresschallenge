@@ -1,0 +1,13 @@
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\Challenge.DatabaseLogicLayer.dll
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\Challenge.DatabaseLogicLayer.pdb
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\Challenge.Entities.dll
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\Challenge.Entities.pdb
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\obj\Debug\Challenge.DatabaseLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\obj\Debug\Challenge.DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\obj\Debug\Challenge.DatabaseLogicLayer.csproj.CopyComplete
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\obj\Debug\Challenge.DatabaseLogicLayer.dll
+C:\Users\Can\source\repos\Challenge\Challenge.DatabaseLogicLayer\obj\Debug\Challenge.DatabaseLogicLayer.pdb
